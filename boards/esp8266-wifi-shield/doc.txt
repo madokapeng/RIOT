@@ -1,0 +1,18 @@
+/**
+ * @defgroup    boards_esp8266-wifi-shield ESP8266 WiFi Shield Version 1.0 By WangTongze
+ * @ingroup     boards
+ * @brief       Support for the ESP8266 WiFi Shield Version 1.0 By WangTongze board.
+ *
+ * ### General information
+ *
+ * Some general information about the board
+ *
+ * ### Pinout
+ *
+ * A detailed description of the board pinout (if available)
+ *
+ * ### Flash the board
+ *
+ * Some notes about how to flash the board
+ *
+ */
